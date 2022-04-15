@@ -17,7 +17,7 @@
 <div align="center">
   <a href="https://instagram.com/felps_gus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-augusto-lopes-veras-510926230" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:felipeaugustolopesveras@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<!--   <a href = "mailto:felipeaugustolopesveras@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
   
    ![Snake animation](https://github.com/felpsgus/felpsgus/blob/output/github-contribution-grid-snake.svg)
 </div>
