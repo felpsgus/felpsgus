@@ -1,4 +1,4 @@
-## Oi!! Eu sou Felipe Augusto, Dev Aprendiz de Front-End
+## Ola!! Eu sou Felipe Augusto e sou estudante de Desevolvimento Web, mais especificamente Front-End
 
 <div align="center">
   <a href="https://github.com/felpsgus">
