@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/felpsgus">
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=felpsgus&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=1F6FEB&bg_color=050a14&custom_title=My GitHub Stats"/>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=felpsgus&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=1F6FEB&bg_color=050a14&custom_title=My%20GitHub%20Stats""/>
   <img height="180em" width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpsgus&layout=compact&langs_count=7&theme=github_dark&hide_border=true&title_color=1F6FEB&bg_color=050a14&card_width=240em"/>
 </div>
   
