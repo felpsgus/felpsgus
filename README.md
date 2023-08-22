@@ -1,11 +1,13 @@
-## Ola!! Eu sou Felipe Augusto e sou estudante de Desevolvimento Web
+## Hi!! I'm Felipe Augusto
 
 <div align="center">
   <a href="https://github.com/felpsgus">
   <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=felpsgus&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=1F6FEB&bg_color=050a14&custom_title=My%20GitHub%20Stats""/>
   <img height="180em" width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpsgus&layout=compact&langs_count=7&theme=github_dark&hide_border=true&title_color=1F6FEB&bg_color=050a14&card_width=240em"/>
 </div>
-  
+
+##
+
 ![image](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![image](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![image](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -19,7 +21,6 @@
 ![image](https://img.shields.io/badge/Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![image](https://img.shields.io/badge/GIT-E44C30.svg?style=for-the-badge&logo=git&logoColor=white)
-
 ##
   
 <div align="center">
